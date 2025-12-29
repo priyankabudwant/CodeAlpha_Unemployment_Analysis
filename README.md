@@ -79,4 +79,15 @@ This project analyzes unemployment rate data in India to understand trends, seas
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 📌 Conclusion
+This project demonstrates how Python-based data analysis can uncover critical insights into unemployment trends. The findings highlight the significant impact of Covid-19 and emphasize the importance of data-driven policymaking in managing economic crises.
+
+---
+
+## 🏷️ Tags
+`#Python` `#DataAnalysis` `#UnemploymentAnalysis` `#Covid19Impact`  
+`#DataScience` `#EDA` `#EconomicAnalysis` `#CodeAlpha`
+
